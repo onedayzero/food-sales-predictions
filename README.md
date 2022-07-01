@@ -5,7 +5,7 @@ The creation of a model to help with predicting food sales at a grocery store ba
 Clint Atterberry
 
 ### Business Problem:
-Trying understand what items will sell depending on factors like the location of a store and the type of item being sold.
+Trying understand sales at a store depending on factors like the location and the type of item sold.
 
 ### Data:
 A CSV file of the data has been uploaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9hM0TmmxdZ3whTnYlhnTpQR0bVvUFganKildu6gE-u4P5hMtFyr0VXkgZ6b8IfBvC148lRAvmgAXU/pub?output=csv).

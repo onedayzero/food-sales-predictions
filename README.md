@@ -27,7 +27,7 @@ A CSV file of the data has been uploaded [here](https://docs.google.com/spreadsh
 | Item_Outlet_Sales | Sales of the product in the particular store. This is the target variable to be predicted. |
 
 ## Overview of Project
-The project explored a Linear Regression Model and a Regression Tree Model. The data was first cleaned by removing the identifier variables, filling in missing weight values with the mean value, and lastly the column of the outlet size was dropped due to it being ordinal and missing so many (about 1/4th) of the data. Afterwards the data was explored looking for trends or standout bad statistics to deal with. The models were then created and compared with one another.
+The project explored a Linear Regression Model and a Regression Tree Model. The data was first cleaned by removing the identifier variables, filling in missing weight values with the mean value, and lastly, the column of the outlet size was dropped due to it being ordinal and missing so many (about 1/4th) of the data. Afterwards the data was explored looking for trends or standout bad statistics to deal with. The models were then created and compared with one another.
 
 ## Insights
 ### 1. The maximum retail price, or list price, of items has a very interesting histogram. I believe in further, more indepth studies, could conclude more detailed information based on splitting this information up into smaller groups.

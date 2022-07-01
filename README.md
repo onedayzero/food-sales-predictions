@@ -1,5 +1,4 @@
-# food-sales-predictions
-
+The Prediction of Food Sales based on Various Features about the Store
 
 | Variable Name | Description |
 | ------------- | ----------- |

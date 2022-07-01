@@ -1,5 +1,6 @@
-The Prediction of Food Sales based on Various Features about the Store
+# The Prediction of Food Sales based on Various Features about the Store
 
+## Data Dictionary
 | Variable Name | Description |
 | ------------- | ----------- |
 | Item_Identifier | Unique product ID |

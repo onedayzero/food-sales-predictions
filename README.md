@@ -15,3 +15,11 @@
 | Outlet_Location_Type | The type of area in which the store is located |
 | Outlet_Type | Whether the outlet is a grocery store or some sort of supermarket |
 | Item_Outlet_Sales | Sales of the product in the particular store. This is the target variable to be predicted. |
+
+OVERVIEW
+
+2 Insights w/ visualizations
+
+Summary of the model and its evaluation metrics
+
+final recommendations

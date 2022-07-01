@@ -37,5 +37,7 @@ The project explored a Linear Regression Model and a Regression Tree Model. The 
 ![Insight Pic #2](https://docs.google.com/drawings/d/e/2PACX-1vQL43Zjh4Ri7uSkopj4oQ-dkeTyvDjD56zZWj6RC4bQSCndtnj8PX0grHizRYARrq07Jw70WDPSz1EK/pub?w=480&h=360)
 
 ## Summary of the Model Used
+The Regression Tree Model was the final model used. Numerical, OneHot encoded categorical, and ordinal data were all used to complete the model. The max depth of the regression tree was 30 and there were 4,531 tree nodes. The optimized model, however, used only a depth of 5. Fitting the cleaned data to the model, a R-Squared value of 0.599 and a Root Mean Squared Error of 1093.013 were calculated.
 
 ## Recommendations
+My recommendation is that the trained Regression Tree could very well be used, however, the R-Squared value of about 60% means that there is still more to the data to explain the sales price than the features we were able to explore. More data is needed in order to find a more accurate model.

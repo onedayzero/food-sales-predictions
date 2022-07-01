@@ -8,7 +8,7 @@ Clint Atterberry
 Trying understand what items will sell depending on factors like the location of a store and the type of item being sold.
 
 ### Data:
-[A CSV file has been uploaded here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9hM0TmmxdZ3whTnYlhnTpQR0bVvUFganKildu6gE-u4P5hMtFyr0VXkgZ6b8IfBvC148lRAvmgAXU/pub?output=csv)
+A CSV file of the data has been uploaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9hM0TmmxdZ3whTnYlhnTpQR0bVvUFganKildu6gE-u4P5hMtFyr0VXkgZ6b8IfBvC148lRAvmgAXU/pub?output=csv).
 
 ## Data Dictionary
 | Variable Name | Description |
@@ -30,8 +30,11 @@ Trying understand what items will sell depending on factors like the location of
 
 
 ## Insights
-### 1. 
-### 2. 
+### 1. The maximum retail price, or list price, of items has a very interesting histogram. I believe in further, more indepth studies, could conclude more detailed information based on splitting this information up into smaller groups.
+![Insight Pic #1](https://docs.google.com/drawings/d/e/2PACX-1vRpXqKmF44iseKc0QFxDWqcNYZdqoYMmlLAjAZzdQqZCSSIHxPVZwEop7l6h7ly-VvLoa1PePXiOT1e/pub?w=480&h=360)
+
+### 2. The sales data is skewed to the right, which would be expected. The mean sale price, however, is almost $400 more than the median.
+![Insight Pic #2](https://docs.google.com/drawings/d/e/2PACX-1vQL43Zjh4Ri7uSkopj4oQ-dkeTyvDjD56zZWj6RC4bQSCndtnj8PX0grHizRYARrq07Jw70WDPSz1EK/pub?w=960&h=720)
 
 ## Summary of the Model Used
 

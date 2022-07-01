@@ -27,14 +27,14 @@ A CSV file of the data has been uploaded [here](https://docs.google.com/spreadsh
 | Item_Outlet_Sales | Sales of the product in the particular store. This is the target variable to be predicted. |
 
 ## Overview of Project
-
+The project explored a Linear Regression Model and a Regression Tree Model. The data was first cleaned by removing the identifier variables, filling in missing weight values with the mean value, and lastly the column of the outlet size was dropped due to it being ordinal and missing so many (about 1/4th) of the data. Afterwards the data was explored looking for trends or standout bad statistics to deal with. The models were then created and compared with one another.
 
 ## Insights
 ### 1. The maximum retail price, or list price, of items has a very interesting histogram. I believe in further, more indepth studies, could conclude more detailed information based on splitting this information up into smaller groups.
 ![Insight Pic #1](https://docs.google.com/drawings/d/e/2PACX-1vRpXqKmF44iseKc0QFxDWqcNYZdqoYMmlLAjAZzdQqZCSSIHxPVZwEop7l6h7ly-VvLoa1PePXiOT1e/pub?w=480&h=360)
 
 ### 2. The sales data is skewed to the right, which would be expected. The mean sale price, however, is almost $400 more than the median.
-![Insight Pic #2](https://docs.google.com/drawings/d/e/2PACX-1vQL43Zjh4Ri7uSkopj4oQ-dkeTyvDjD56zZWj6RC4bQSCndtnj8PX0grHizRYARrq07Jw70WDPSz1EK/pub?w=960&h=720)
+![Insight Pic #2](https://docs.google.com/drawings/d/e/2PACX-1vQL43Zjh4Ri7uSkopj4oQ-dkeTyvDjD56zZWj6RC4bQSCndtnj8PX0grHizRYARrq07Jw70WDPSz1EK/pub?w=480&h=360)
 
 ## Summary of the Model Used
 

@@ -16,10 +16,12 @@
 | Outlet_Type | Whether the outlet is a grocery store or some sort of supermarket |
 | Item_Outlet_Sales | Sales of the product in the particular store. This is the target variable to be predicted. |
 
-OVERVIEW
+## Overview of Project
 
-2 Insights w/ visualizations
+## Insights
+### 1. 
+### 2. 
 
-Summary of the model and its evaluation metrics
+## Summary of the Model Used
 
-final recommendations
+## Recommendations

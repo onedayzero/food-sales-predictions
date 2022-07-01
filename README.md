@@ -1,12 +1,13 @@
 # Food Sale Predictions
 The creation of a model to help with predicting food sales at a grocery store based on almost 10 features.
 
-Author: Clint Atterberry
+### Author:
+Clint Atterberry
 
-Business Problem:
+### Business Problem:
 Trying understand what items will sell depending on factors like the location of a store and the type of item being sold.
 
-Data:
+### Data:
 [A CSV file has been uploaded here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9hM0TmmxdZ3whTnYlhnTpQR0bVvUFganKildu6gE-u4P5hMtFyr0VXkgZ6b8IfBvC148lRAvmgAXU/pub?output=csv)
 
 ## Data Dictionary
